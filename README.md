@@ -3,7 +3,7 @@
 
 
 
-<h2> Benimle iletişim kur </h2>
+<h2>Contact With Me</h2>
 <a href="https://instagram.com/dogancodreanu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xyzcusty" height="30" width="40" /></a>
 <a href="https://discord.gg/yq6HdFUfGb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="BMrVVpfnnb" height="38" width="48" /></a>
 
